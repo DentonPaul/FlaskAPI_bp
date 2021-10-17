@@ -1,0 +1,8 @@
+.env
+*.pyc
+venv*
+env
+*.tags*
+
+.cache
+_cache/*
